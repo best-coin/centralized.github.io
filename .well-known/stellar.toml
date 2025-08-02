@@ -1,30 +1,98 @@
-VERSION="2.2.1"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-ACCOUNTS=[""]
+ACCOUNTS=["GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_DESCRIPTION=""
-ORG_DBA=""
-ORG_URL=""
-ORG_LOGO= ""
-ORG_OFFICIAL_EMAIL=""
-
-[[PRINCIPALS]]
-name=""
-email=""
-github=""
+ORG_NAME="Centralized"
+ORG_DESCRIPTION="Powering the Future with Stellar Blockchain Tokens"
+ORG_URL="https://centralized.site"
+ORG_LOGO="https://centralized.site/images/logo.png"
 
 [[CURRENCIES]]
-code=""
+code="HorizonX"
 status="live"
-issuer=""
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
 display_decimals=7
-name=""
-desc=""
-conditions=""
-image=""
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset=""
-anchor_asset_type=""
+name="HorizonX"
+image="https://centralized.site/images/"
+desc="Symbolizes forward-looking vision and expansion in finance."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="NexaCoin"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="NexaCoin"
+image="https://centralized.site/images/"
+desc="Suggests next-generation digital currency, great for innovation-driven projects."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="Lumeo"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="Lumeo"
+image="https://centralized.site/images/"
+desc="A modern twist on Lumen — perfect for a utility or payment token in the Stellar network."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="SwiftGem"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="SwiftGem"
+image="https://centralized.site/images/"
+desc="Combines speed (Swift) and value (Gem) — excellent for a stablecoin or digital asset."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="UnityX"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="UnityX"
+image="https://centralized.site/images/"
+desc="Represents financial inclusion and unity — ideal for nonprofit, remittance, or community tokens."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="NovaXLM"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="NovaXLM"
+image="https://centralized.site/images/"
+desc="Suggests innovation on Stellar (XLM). Great for DeFi, staking, or new financial tools."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="GreenLum"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="GreenLum"
+image="https://centralized.site/images/"
+desc="Eco-themed token; perfect for carbon credits, green energy, or sustainability initiatives on Stellar."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="VeriPay"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="VeriPay"
+image="https://centralized.site/images/"
+desc="Stands for Verified Payment — suitable for an audited stablecoin or trusted digital asset."
+conditions="Total Supply: 100,000,000,000"
+
+[[CURRENCIES]]
+code="Cirrus"
+status="live"
+issuer="GBZ6M3IVZXZJWCTS26QA6WGBR3EV2K6ED6NSPJUXAWXEUFJBRSOCAQJS"
+display_decimals=7
+name="Cirrus"
+image="https://centralized.site/images/"
+desc="Inspired by clouds — represents fast, light, frictionless transactions."
+conditions="Total Supply: 100,000,000,000"
