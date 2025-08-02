@@ -1,0 +1,30 @@
+VERSION="2.2.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=[""]
+
+[DOCUMENTATION]
+ORG_NAME=""
+ORG_DESCRIPTION=""
+ORG_DBA=""
+ORG_URL=""
+ORG_LOGO= ""
+ORG_OFFICIAL_EMAIL=""
+
+[[PRINCIPALS]]
+name=""
+email=""
+github=""
+
+[[CURRENCIES]]
+code=""
+status="live"
+issuer=""
+display_decimals=7
+name=""
+desc=""
+conditions=""
+image=""
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset=""
+anchor_asset_type=""
